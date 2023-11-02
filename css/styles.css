@@ -4,12 +4,12 @@
   height: 20px;
 }
  .d-item{
-  height: 900px;
+  height: 1100px;
  }
  .d-img{
   height: 100%;
   object-fit: cover;
-  filter: brightness(0.6); 
+  filter: brightness(0.7); 
  }
  
 :root {
