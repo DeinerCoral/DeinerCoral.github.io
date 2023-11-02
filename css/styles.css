@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
 .p-item{
-  height: 20px;
+  height: 0px;
 }
  .d-item{
-  height: 940px;
+  height: 1000px;
  }
  .d-img{
   height: 100%;
